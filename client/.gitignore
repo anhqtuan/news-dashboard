@@ -1,0 +1,9 @@
+.env.local
+/node_modules
+/.next
+
+codegen.yml
+next-env.d.ts
+postcss.config.js
+tailwind.config.css
+tsconfig.json
